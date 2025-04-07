@@ -70,12 +70,8 @@ This is a conceptual project; physical implementation requires:
 ### Prerequisites
 - Knowledge of SMA properties and aerospace engineering.
 - Access to space-grade materials and testing facilities.
-- AI development tools (e.g., Python, MATLAB).
 
-### Setup
-1. Clone the repository: `git clone <repo-url>`
-2. Install dependencies: `pip install -r requirements.txt` (TBD based on AI implementation).
-3. Run simulations: `<command-to-run-simulation>` (specific commands TBD).
+
 
 ## References
 - Nath, T., et al. (2016). *Active Control of Space Structures Using Shape Memory Alloys*.
